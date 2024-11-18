@@ -1,7 +1,11 @@
 
-# Lost and Found System
+# Lost and Found Management System
 
   <img src="website_img/logo2.jpg" alt="Project Logo" width="600" />
+
+## Team Members
+- Aaditya Chachra (2022UCM2303)
+- Hemant Gupta (2022UCM2348)
 
 ## Table of Contents
 
