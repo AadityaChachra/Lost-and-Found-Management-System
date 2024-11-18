@@ -51,7 +51,7 @@ Before you begin, ensure you have the following installed:
 
 #### Configure Web Server:
 
-1. Point your web server to the project's root directory (Usally htdocs).
+1. Point your web server to the project's root directory (Usually htdocs).
 2. Ensure that the server is configured to execute PHP files.
 3. Start the web server and open the application in your browser.
 
